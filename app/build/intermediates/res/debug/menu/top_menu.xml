@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/take_photo"
+        android:title="@string/take_photo"
+        android:icon="@drawable/camera"
+        android:showAsAction="ifRoom"/>
+</menu>
+<!-- From: file:/Users/cindy.cao/Documents/Lab8Submit/app/src/main/res/menu/top_menu.xml -->

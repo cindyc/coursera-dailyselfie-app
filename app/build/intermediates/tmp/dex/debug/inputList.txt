@@ -1,0 +1,1 @@
+/Users/cindy.cao/Coursera/androidpart2-006/assignments/coursera-android-labs/Lab8b-DailySelfie2/app/build/intermediates/classes/debug
